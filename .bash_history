@@ -11,3 +11,9 @@ git add .
 git .
 git --help
 git config --global user.email "huytuanklh@gmail.com"
+git add .
+git commit -m "The first commit"
+git remote add https://github.com/tuanbkite6/it_nihongo3_rails
+git remote add origin https://github.com/tuanbkite6/it_nihongo3_rails
+git push -u origin main 
+git branch
